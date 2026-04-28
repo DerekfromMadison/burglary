@@ -1,0 +1,7 @@
+# Codeman session-specific hooks (point at local Codeman API, not portable)
+.claude/settings.local.json
+
+# Logs / temp
+*.tmp
+*.swp
+.DS_Store
