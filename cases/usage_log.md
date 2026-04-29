@@ -19,3 +19,9 @@ Append one row per phase / sub-agent batch. Source for case-study compute accoun
 | thai-inhaler | rewrite | 1 | 19 | v3 exec-summary + 7 sub-docs; 5,682→983 words (5.8:1); ~173k tokens |
 | thai-inhaler | critique | 11 | 5 | 10 viewpoint critics (consumer/marketing/asia/logistics/security/psych/PMF/brand/ops/investor) + progress reviewer; ~432k tokens parallel |
 | thai-inhaler | v4-integration | 0 | 8 | Main-thread integration of 11 critique reports → v4 deliverable + 4 sub-docs (2 revised, 2 new) + LinkedIn v4 + case study v3 |
+| thai-inhaler | wave1-marketing | 13 | 8 | 13 marketing-strategy agents (beachhead/SKU/messaging/diff/TikTok/community/SEO/paid/Amazon/IRL/speed/founder/funnel/PR); ~910k tokens parallel |
+| thai-inhaler | v5-integration | 0 | 5 | Main-thread synthesis: v5 marketing-first deliverable + relocate 14 wave1 to 04_details/ as 11-24 |
+| thai-inhaler | wave4-gap-fill | 1 | 22 | v6 + 5 sub-doc revisions (12_sku_v2, 14_diff_v2, 19_amazon_v2, 21_speed_v2, 25_lifecycle NEW); fixes every gap from 5 gap-finder reports |
+| thai-inhaler | wave3-gaps | 5 | 3 | 5 gap-finders parallel: strategy / execution / channels / journey / economics; ~344k tokens |
+| thai-inhaler | wave4-gap-fill | 1 | 11 | Single integrator: v6 deliverable + 5 sub-doc revisions; 134,906 tokens; addressed all 5 gap-report findings |
+| thai-inhaler | v5-linkedin + v4-casestudy | 0 | 4 | Main-thread: LinkedIn v5 + case study v4 reflect v6 + user-pushback honest framing |
